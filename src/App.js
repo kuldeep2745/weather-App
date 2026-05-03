@@ -11,6 +11,7 @@ function App() {
 
   const API_KEY = '623247fd14ad6cb2dfa42bec912a5aac'; // Replace with your OpenWeatherMap API key
 
+  console.log("kuldeep rathore weather app")
   useEffect(() => {
     const fetchData = async () => {
       try {
